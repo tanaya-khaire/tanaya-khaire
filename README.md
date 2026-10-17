@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Tanaya Khaire</h1>
+<h3 align="center">E&TC Engineering Student | Aspiring Software Developer</h3>
 
-<!--
-**tanaya-khaire/tanaya-khaire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Learning Programming, DSA and Web Development
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning Java and Data Structures & Algorithms
+- 💡 Improving my programming fundamentals and logic building
+- 🚀 Building software development projects
+- 🎯 Preparing for Software Developer Internships and Placements
+- 🤝 Interested in collaborating on development projects
+
+---
+
+### 🛠️ Languages and Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,python,mysql,git,github,vscode" />
+</p>
+
+### 📂 My Projects
+
+- 🚗 ParkEngine – Scalable Parking Allocation System
+- 🌐 Personal Portfolio Website
+
+### 🔗 Connect with Me
+
+- GitHub: https://github.com/tanaya-khaire
+
+---
+
+<p align="center">
+  ✨ Consistency beats intensity. ✨
+</p>
